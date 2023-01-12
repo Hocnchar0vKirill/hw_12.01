@@ -1,0 +1,15 @@
+.some-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+footer {
+  background-color: rgb(203, 45, 145);
+}
+
+footer > p {
+  font-family: "Courier New, Courier, monospace";
+}
+
+/*# sourceMappingURL=style.css.map */

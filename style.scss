@@ -1,0 +1,13 @@
+$pink: rgb(203, 45, 145);
+$courier: 'Courier New, Courier, monospace';
+.some-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+footer{
+    background-color: $pink;
+}
+footer>p{
+    font-family: $courier;
+}
